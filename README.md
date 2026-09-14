@@ -1,9 +1,15 @@
 # Kainat Urooj — Real Estate Consultant Website
+**Live Website:** https://osamasalamat.github.io/kainat-Urooj/
+<p align="center">
+  <img src="Demo%20Images/Screenshot%202026-09-14%20124421.png" width="49%">
+  <img src="Demo%20Images/Screenshot%202026-09-14%20124444.png" width="49%">
+  <img src="Demo%20Images/Screenshot%202026-09-14%20124744.png" width="49%">
+  <img src="Demo%20Images/Screenshot%202026-09-14%20143659.png" width="49%">
+</p>
 A modern, premium, and fully responsive real estate consultant website designed for **Kainat Urooj**, a property advisor based in Lahore, Pakistan.
 
 The website presents real estate services, property listings, professional experience, client testimonials, operating areas, FAQs, and contact information through a polished single-page experience.
 
-**Live Website:** https://osamasalamat.github.io/kainat-Urooj/
 ## Features
 * Modern premium real estate UI
 * Fully responsive design
